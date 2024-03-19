@@ -1,4 +1,6 @@
-![logo](https://github.com/typerobot/typerobot/assets/190269/9389a980-7834-4739-9aa2-0ce729c213e7)
+<p align="center">
+  <img src="https://github.com/typerobot/typerobot/assets/190269/97ee5fbf-235b-4678-8fa0-b3e9b230328a" width="100" alt="project-logo">
+</p>
 <p align="center">
     <h1 align="center">TYPEROBOT</h1>
 </p>
