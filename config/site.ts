@@ -6,12 +6,12 @@ export const siteConfig = {
     "Empower your business with cutting-edge AI solutions - driving innovation, efficiency, and growth. Unlock the full potential of artificial intelligence for your business today.",
   mainNav: [
     {
-      title: "Home",
-      href: "/",
+      title: "ChatWhiz",
+      href: "https://chatwhiz.ai",
     },
   ],
   links: {
-    twitter: "https://twitter.com/typerobot",
+    twitter: "https://twitter.com/thattimc",
     github: "https://github.com/typerobot/typerobot",
     docs: "https://typerobot.com",
   },
