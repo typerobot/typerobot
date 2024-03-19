@@ -1,4 +1,4 @@
-<p align="center">![logo](https://github.com/typerobot/typerobot/assets/190269/9389a980-7834-4739-9aa2-0ce729c213e7)</p>
+![logo](https://github.com/typerobot/typerobot/assets/190269/9389a980-7834-4739-9aa2-0ce729c213e7)
 <p align="center">
     <h1 align="center">TYPEROBOT</h1>
 </p>
