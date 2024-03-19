@@ -1,6 +1,18 @@
-export type SiteConfig = typeof siteConfig
+import { MainNavItem, SidebarNavItem } from "types/nav"
 
-export const siteConfig = {
+interface SiteConfig {
+  name: string
+  description: string
+  mainNav: MainNavItem[]
+  links: {
+    twitter: string
+    github: string
+    docs: string
+  }
+  sidebarNav?: SidebarNavItem[]
+}
+
+export const siteConfig: SiteConfig = {
   name: "TypeRobot",
   description:
     "Empower your business with cutting-edge AI solutions - driving innovation, efficiency, and growth. Unlock the full potential of artificial intelligence for your business today.",

@@ -7,14 +7,10 @@ export const Icons = {
   moon: Moon,
   twitter: Twitter,
   logo: (props: LucideProps) => (
-    <svg
-      viewBox="0 0 24 24"      
-      xmlns="http://www.w3.org/2000/svg"
-      {...props}
-    >
+    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" {...props}>
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M4.5 0C2.01472 0 0 2.01472 0 4.5V19.5C0 21.9853 2.01472 24 4.5 24H19.5C21.9853 24 24 21.9853 24 19.5V4.5C24 2.01472 21.9853 0 19.5 0H4.5ZM6.14062 2.625C4.199 2.625 2.625 4.199 2.625 6.14062V17.8594C2.625 19.801 4.199 21.375 6.14062 21.375H17.8594C19.801 21.375 21.375 19.801 21.375 17.8594V6.14062C21.375 4.199 19.801 2.625 17.8594 2.625H6.14062Z"
         fill="currentColor"
       />
