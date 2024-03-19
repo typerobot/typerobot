@@ -1,9 +1,9 @@
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
-  name: "Next.js",
+  name: "TypeRobot",
   description:
-    "Beautifully designed components built with Radix UI and Tailwind CSS.",
+    "Empower your business with cutting-edge AI solutions - driving innovation, efficiency, and growth. Unlock the full potential of artificial intelligence for your business today.",
   mainNav: [
     {
       title: "Home",
@@ -11,8 +11,8 @@ export const siteConfig = {
     },
   ],
   links: {
-    twitter: "https://twitter.com/shadcn",
-    github: "https://github.com/shadcn/ui",
-    docs: "https://ui.shadcn.com",
+    twitter: "https://twitter.com/typerobot",
+    github: "https://github.com/typerobot/typerobot",
+    docs: "https://typerobot.com",
   },
 }
