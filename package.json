@@ -27,7 +27,7 @@
     "next-themes": "^0.3.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "sharp": "^0.33.2",
+    "sharp": "^0.33.3",
     "tailwind-merge": "^2.2.2",
     "tailwindcss-animate": "^1.0.7"
   },
@@ -35,7 +35,7 @@
     "@ianvs/prettier-plugin-sort-imports": "^4.2.1",
     "@total-typescript/ts-reset": "^0.5.1",
     "@types/node": "^20.11.30",
-    "@types/react": "^18.2.67",
+    "@types/react": "^18.2.69",
     "@types/react-dom": "^18.2.22",
     "@typescript-eslint/parser": "^7.3.1",
     "autoprefixer": "^10.4.19",
